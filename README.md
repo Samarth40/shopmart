@@ -1,6 +1,6 @@
 # ShopMart - React Shopping Website
 
-![ShopMart Banner](https://i.imgur.com/QpK5ECF.png)
+![ShopMart Banner](public/home.png)
 
 A modern, responsive e-commerce website built with React and Fake Store API as part of the Frontend Development Internship Assignment for Grey Scientific Labs on Internshala.
 
@@ -90,13 +90,13 @@ src/
 ## 📱 Screenshots
 
 ### Home Page
-![Home Page](https://i.imgur.com/placeholder.jpg)
+![Home Page](public/home.png)
 
 ### Product Detail
-![Product Detail](https://i.imgur.com/placeholder.jpg)
+![Product Detail](public/product_detail.png)
 
 ### Shopping Cart
-![Shopping Cart](https://i.imgur.com/placeholder.jpg)
+![Shopping Cart](public/cart.png)
 
 ## 📘 API Reference
 
