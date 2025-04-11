@@ -6,7 +6,7 @@ A modern, responsive e-commerce website built with React and Fake Store API as p
 
 ## 🌟 Live Demo
 
-[View Live Demo](#) - *Add your deployed link here*
+[View Live Demo](#) - shopmart-tau.vercel.app
 
 ## ✨ Features
 
